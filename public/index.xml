@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eröffnung</title>
+      <link>http://localhost:1313/post/er%C3%B6ffnung/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/er%C3%B6ffnung/</guid>
+      <description> Eröffnung Kooles Fest für alle die Kool sind! es gibt spaghetti Baerlauch und bier jeeaaaaa
+*COOL **COOL
+***COOOOOL </description>
+    </item>
+    
+    <item>
+      <title>Sponsoren</title>
+      <link>http://localhost:1313/partner/sponsoren/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/partner/sponsoren/</guid>
+      <description>Ohne die Unterstützung von Stiftungen, privaten Sponsoren und Unternehmen hätten wir das Gemeinschaftsatelier FUSILLI nicht realisieren können.So wurde ein wichtiger Beitrag an nachhaltige Schaffensräume in Kriens geleistet. Wir Danke herzlichst all unseren Partner</description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>http://localhost:1313/partner/community/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/partner/community/</guid>
+      <description>alle brüder und schwester hoch lebt die community
+ </description>
+    </item>
+    
+    <item>
+      <title>Stiftungen</title>
+      <link>http://localhost:1313/partner/stiftungen/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/partner/stiftungen/</guid>
+      <description>Ohne die Unterstützung von Stiftungen, privaten Sponsoren und Unternehmen hätten wir das Gemeinschaftsatelier FUSILLI nicht realisieren können.So wurde ein wichtiger Beitrag an nachhaltige Schaffensräume in Kriens geleistet. Wir Danke herzlichst all unseren Partner.</description>
+    </item>
+    
+    <item>
+      <title>Vernissagel</title>
+      <link>http://localhost:1313/post/vernissagel/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/vernissagel/</guid>
+      <description>####VVernissage
+Echt coole Kunst mit Coolen leuten und coolen BIER!
+Kommt alle es gibt auch #Bärlauch Spaghetti</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>http://localhost:1313/post/migrate-to-hugo-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/migrate-to-hugo-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Colenak</title>
+      <link>http://localhost:1313/post/colenak/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/colenak/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/</guid>
+      <description>@— author: &amp;ldquo;Michael Henderson&amp;rdquo; date: 2014-09-26 linktitle: Awesomeness next: /tutorials/github-pages-blog prev: /tutorials/automated-deployments title: Awesomeness weight: 10
+authorAvatar: hugo-logo.png Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme.</description>
+    </item>
+    
+  </channel>
+</rss>

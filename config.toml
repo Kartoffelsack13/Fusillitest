@@ -1,0 +1,71 @@
+baseurl         = "http://localhost:1313/"
+theme           = "casper1"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "FUSILLI"
+  subtitle    = "FUSILLI – Ateliergemeinschaft Teiggi Kriens "
+
+
+  cover       = ""
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = ["css/fusilli.css" ] 
+  RSSLink = ""
+
+  twitterName = "realdonaldtrump"
+  fbName = "586121398408539"
+  instagramName = "fusilli.teiggi"
+instagramLink = "www.instagram.com/fusilli.teiggi"
+  logo = "fusilli-logo.png"
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  showSupport = true
+
+  author = ""
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = ""
+  authorWebsite = ""
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+
+[[menu.main]]
+  name = "Über uns"
+  url = "/about/"
+  weight = 95
+post	= "about/:slug/"
+
+
+[[menu.main]]
+  name = "Veranstaltungen"
+  url = "/events/"
+  weight = 150
+  post  = "/events/:slug/"
+
+
+[[menu.main]]
+  name = "Partner"
+  url = "/partner/"
+  weight = 60
+  post  = "/partner/:slug/" 
+
