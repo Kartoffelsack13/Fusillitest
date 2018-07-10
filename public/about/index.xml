@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on </title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 28 Sep 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kunst und Kulturschaffende</title>
+      <link>/about/artists/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/about/artists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gemeinschaftsatelier</title>
+      <link>/about/atelier/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/about/atelier/</guid>
+      <description>SLOT
+RAHMEN
+LABOR
+KÜNSTLER</description>
+    </item>
+    
+    <item>
+      <title>Vorstand</title>
+      <link>/about/vorstand/</link>
+      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/about/vorstand/</guid>
+      <description>FUSILLI, die Ateliergemeinschaft Teiggi setzt sich zum Ziel, Kunst- und Kulturschaffenden erschwingliche, unbefristete Atelierräumlichkeit zu bieten. Ausserdem repräsentiert sich die Ateliergemeinschaft durch kulturelle Veranstaltung in der Wohnsiedlung Teiggi sowie im Raum Kriens und Luzern.
+– Auszug aus den Statuten vom 9.10.2017
+Statuten Fusilli</description>
+    </item>
+    
+  </channel>
+</rss>

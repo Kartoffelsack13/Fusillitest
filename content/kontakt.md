@@ -1,14 +1,11 @@
 +++
-comments = false
-date = "2015-04-14T22:17:00+00:00"
-draft = false
-noauthor = true
-share = false
+author = ""
+date = "2013-09-28"
+linktitle = "kontakt"
 title = "Kontakt"
+categories = ["events"]
 type = "page"
 [menu.main]
-weight = 70
-
+weight = 10
 +++
-
-
+yejskjehkje

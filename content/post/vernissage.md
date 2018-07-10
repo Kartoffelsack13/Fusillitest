@@ -6,7 +6,6 @@ linktitle: Vernissage
 nomenu:
   main:
     parent: tutorials
-prev: /tutorials/mathjax
 title: Vernissagel
 noweight: 10
 image: img/Fusilli.jpg

@@ -6,7 +6,6 @@ next:
 prev:
 title: Eröffnung
 weight: 10
-authorAvatar: fusilli-logo.png
 image: img/teiggiaussen.jpg
 ---
 

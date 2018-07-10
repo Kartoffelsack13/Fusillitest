@@ -1,10 +1,11 @@
-baseurl         = "http://localhost:1313/"
+url         = "https://github.com/Kartoffelsack13/Fusillitest.git"
 theme           = "casper1"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
+publishDir = "docs"  
 
 [params]
   title       = "FUSILLI"
@@ -67,5 +68,5 @@ post	= "about/:slug/"
   name = "Partner"
   url = "/partner/"
   weight = 60
-  post  = "/partner/:slug/" 
+  post  = "/partner/" 
 
