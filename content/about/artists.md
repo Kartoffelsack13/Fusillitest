@@ -7,5 +7,6 @@ categories = ["about"]
 type = "post"
 weight = "10"
 image = ""
+url = ""
 +++
 

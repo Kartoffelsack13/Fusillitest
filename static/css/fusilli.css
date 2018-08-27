@@ -1,4 +1,4 @@
-site-logo{max-height:300px}   /*Fusilli logo grösse*/
+.site-logo{max-height:300px}   /*Fusilli logo grösse*/
 
 .post-full-image {background:#ffffff} /* hintergrundfarbe anpassen site */
 
@@ -32,4 +32,4 @@ site-logo{max-height:300px}   /*Fusilli logo grösse*/
 
 .site-header:after {bottom: auto;height: 80px;background: linear-gradient(rgba(23, 18, 18, 0.45),transparent);}   /*footer page style*/
 
-.home-template .site-nav {top: -80px;} /*menu Section a bit higher*/
+/*.home-template .site-nav {top: -70px;} */ /*menu Section a bit higher{Handyview Menu Section in Logo Error}*/

@@ -3,7 +3,7 @@ author = ""
 date = "2013-09-28"
 linktitle = "kontakt"
 title = "Kontakt"
-categories = ["events"]
+categories = [""]
 type = "page"
 [menu.main]
 weight = 10

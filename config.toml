@@ -1,37 +1,37 @@
-url         = "https://github.com/Kartoffelsack13/Fusillitest.git"
+url         = "http://atelierfusilli.ch/"
 theme           = "casper1"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
-canonifyurls    = true
-publishDir = "docs"  
+canonifyurls    = true  
 
 [params]
   title       = "FUSILLI"
   subtitle    = "FUSILLI – Ateliergemeinschaft Teiggi Kriens "
-
+copyright     = "© 2018"
 
   cover       = ""
-  description = "Here is a description of your site."
+  description = "FUSILLI– Ateliergemeinschaft Teiggi Kriens "
   metaDescription = ""
   googleAnalytics = ""
-  customCSS = ["css/fusilli.css" ] 
+
+  customCSS = ["/css/fusilli.css"]  
   RSSLink = ""
 
-  twitterName = "realdonaldtrump"
+  twitterName = ""
   fbName = "586121398408539"
   instagramName = "fusilli.teiggi"
 instagramLink = "www.instagram.com/fusilli.teiggi"
-  logo = "fusilli-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  logo = "/fusilli-logo.png"
+  orgName = ""
+  orgWebsite = ""
+  orgDescription = ""
 
   showSupport = true
 
   author = ""
-  authorAvatar = "img/ghost-icon.png"
+  authorAvatar = ""
   authorLocation = ""
   authorWebsite = ""
   authorDescription = ""
@@ -49,24 +49,19 @@ instagramLink = "www.instagram.com/fusilli.teiggi"
   url = "/"
   weight = 200
 
-
 [[menu.main]]
   name = "Über uns"
   url = "/about/"
   weight = 95
-post	= "about/:slug/"
-
 
 [[menu.main]]
-  name = "Veranstaltungen"
+  name = "Events"
   url = "/events/"
   weight = 150
-  post  = "/events/:slug/"
-
-
+  
 [[menu.main]]
   name = "Partner"
   url = "/partner/"
   weight = 60
-  post  = "/partner/" 
+ 
 
