@@ -16,4 +16,13 @@ FUSILLI, die Ateliergemeinschaft Teiggi setzt sich zum Ziel, Kunst- und Kultursc
 
 [Statuten Fusilli] (/statuten.pdf)
 
+Fabio Colledani (Präsident): Er macht so viel Sachen, wie kann er das machen? Experimentieren, studieren, musizieren, und nebenbei auch noch vereinspräsidieren. Er kann es machen, so viele Sachen!
+
+Markus Unternährer (Vizepräsident): Er ist nur Vize, des Präsidenten Komplize. Wenn die Uni erlaubt, macht er Kunst -- wer es glaubt! Er ist noch Novize.
+
+Daniela Meier: Sie bekleidet kein Amt, sie macht allesamt. Sie wirbelt umher, organisiert kreuz und quer. Sie ist brillant.
+
+Florian Huber: Er haut Bilder aus Stein und spricht fliessend Latein. Unermesslich sein Wissen, er teilt's ganz beflissen. So soll es sein.
+
+Nadine Hasler: Kann eine hier checken, was wir so aushecken? Sie ist auf der Hut: ist es fair, klug und gut? Sie kann es checken.
 
