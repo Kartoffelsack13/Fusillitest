@@ -10,11 +10,4 @@ weight = "10"
 image = ""
 +++
 
-SLOT
-
-
-RAHMEN
-
-LABOR
-
-KÜNSTLER
+Coming Soon

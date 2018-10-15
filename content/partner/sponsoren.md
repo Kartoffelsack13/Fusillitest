@@ -9,14 +9,10 @@ weight = "10"
 image = ""
 +++
 
-Ohne die Unterstützung von Stiftungen, privaten Sponsoren und Unternehmen hätten wir das Gemeinschaftsatelier FUSILLI nicht realisieren können.So wurde ein wichtiger Beitrag an nachhaltige Schaffensräume in Kriens geleistet. Wir Danke herzlichst all unseren Partner
 
 
-
-<img src="/img/partner/sponsoren/mr.jpg" style="margin-right: 100px;" width=400; lenght=300;  /><img src="/img/partner/sponsoren/hc.gif" width=300; lenght=300;  />
+<a href="http://www.halter-colledani.ch/"> <img alt="Halter&Colledani AG" src="/img/partner/sponsoren/hc.gif" style="width:300;height:300;"margin-right: 150px";border:"150px"> <span style="padding-left:50px">  </a> <a href="https://multireflex.ch/"><img src="/img/partner/sponsoren/mr.jpg" weight="100" width="400">
 <br>
 <br>
 
-<img src="/img/partner/sponsoren/ar.jpg" style="margin-right: 150px;" width=300; lenght=300; /><img src="" />
-
-
+<a href="http://www.atelier-ritter.ch/"> <img alt="Atelier Ritter" src="/img/partner/sponsoren/ar.jpg" style="width:300px;height:150px;"margin-right: 150px";border:"150px"> <span style="padding-left:50px"> </a> <a href="https://www.natur-farben.ch/"><img alt="Unternährer Farben" src="/img/partner/sponsoren/ua.gif" <!--style="width:300px;height:150px;-->

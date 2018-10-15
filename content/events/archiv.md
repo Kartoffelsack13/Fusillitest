@@ -8,4 +8,7 @@ type = "post"
 weight = "10"
 image = ""
 +++
-~     
+
+<a href="http://www.atelierfusilli.ch/post/fusilli-er%C3%B6ffnungsfeier/">22.09.18/Eröffnungsfeier FUSILLI&LABOR</a>
+
+~                                     ~     

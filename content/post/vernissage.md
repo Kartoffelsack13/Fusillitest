@@ -1,18 +1,42 @@
-
 ---
 author: ""
-date: 2018-05-01
-linktitle: Vernissage
+date: 2018-09-03
+linktitle: opening
 nomenu:
-  main:
-    parent: tutorials
-title: Vernissagel
+title: FUSILLI Eröffnungsfeier 
 noweight: 10
-image: img/Fusilli.jpg
+image: img/post/eroffnungplakat.jpg
 ---
 
-####VVernissage
+Im Rahmen der Eröffnungsfeier der Wohnsiedlung TEIGGI am SA 22. September 2018 geben die FUSILLI – Ateliergemeinschaft Teiggi und das LABOR Luzern Einblick in ihre neuen Räumlichkeiten und ihr Schaffen.
 
-Echt coole Kunst mit Coolen leuten und coolen BIER!
+<b>Kunstausstellung und offenes Atelier</b> mit Judith Bucher, Helen Eggenschwiler, Klarissa Flückiger, Florian Huber, Stefan Kiser, Daniela P. Meier, Livia Müller und Marc André Wermelinger
 
-Kommt alle es gibt auch #Bärlauch Spaghetti
+<b>Zum Mitmachen:</b><br> 
+Kinderschminken mit Nicole Kaufmann<br>
+Chimära-Modellieren mit Florian Huber<br>
+Micro Mechanic Motor: Walk in Workshop von der Actioncy um 13.00 – 16.00 Uhr (ab 9 Jahren bzw. 6 Jahren mit Begleitung)<br>
+LABOR-Hackspace<br>
+LABOR Bar & FUSILLI-Essen<br>
+
+<b>Konzert und Afterparty:</b><br>
+Jazzduo Way Out West um 17:30 Uhr<br>
+crazy in house performance mit DJ BentleyFX und Mysterious Mystical F<br>
+
+FUSILLI & LABOR freuen sich auf deinen Besuch!
+
+SA 22. September<br>
+12.00 – open end<br>
+
+Wohnsiedlung TEIGGI<br>
+FUSILLI – Ateliergemeinschaft Teiggi | LABOR Luzern<br>
+Degenstrasse 3<br>
+6010 Kriens<br>
+
+<img src="/img/post/eroffnungflyer.jpg" weight="250" width="500">
+
+
+
+<img src="/img/post/Fusilligif.gif" weight="200" width="500">
+
+
