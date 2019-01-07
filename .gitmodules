@@ -1,0 +1,3 @@
+[submodule "Fusillitest"]
+	path = Fusillitest
+	url = git@github.com:Kartoffelsack13/Fusillitest.git
