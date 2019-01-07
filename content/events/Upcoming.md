@@ -10,3 +10,4 @@ image = ""
 +++
 
 
+<a href="http://www.atelierfusilli.ch/post/palaver-blockchain---die-kette-des-vertrauens/">Palaver Blockchain - Die Kette des Vertrauens 14.01.19</a>
