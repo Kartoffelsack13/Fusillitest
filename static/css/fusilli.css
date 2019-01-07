@@ -1,6 +1,9 @@
 
 
 
+
+.post-template .kg-card-markdown>p:first-child {font-size: 100%;line-height: 1.5em;} /*first Child Text normalgros*/
+
 .post-card-image {
     width: auto;
     height: 200px;
