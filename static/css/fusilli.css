@@ -1,6 +1,11 @@
 
 
+   
 
+.post-card {min-height:120px}
+
+.home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) h2 {font-size: 2.4rem;}   /*Title Text everywhere same */
+h2 {   font-size: 2.4rem; }
 
 .post-template .kg-card-markdown>p:first-child {font-size: 100%;line-height: 1.5em;} /*first Child Text normalgros*/
 

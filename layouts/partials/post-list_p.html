@@ -1,7 +1,7 @@
 {{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "post") }}
 {{ range $paginator.Pages }}
 
-<article class="post-card post" style="max-width: 350px; height:200px;"
+<article class="post-card post" style="max-width: 300px; max-height:120px;"
 > 
     {{if .Params.image}}
     <a class="post-card-image-link" href="{{ .Permalink }}">
@@ -32,8 +32,6 @@
 
 
     <footer class="/*post-card-meta*/">
-          <img class="/*uthor-profile-image*/" src="/*{{ (.Params.authorAvatar | default .Site.Params.authorAvatar) | absURL}}*/" alt="" />
-          <span class="post-card-author">{{.Params.author | default .Site.Params.author}}</a></span>
       </footer>
     </div>
 </article>
