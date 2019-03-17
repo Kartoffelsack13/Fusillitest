@@ -13,10 +13,10 @@ weight = 10
 Die Eingangstür zum Atelier befindet sich am Ende der Degenstrasse3, Ecke Degenstrasse/Villastrasse.
 
 <b>Per Bus:</b>
-Ab Banhof Luzern mit dem 1er Bus richtung Kriens-Obernau bis Hofmatt Bellpark. Belpark hindurch am Spielplatz vorbei, linkskurve einschlagen nach ca. 200m ersteAbzweigung rechts bis ende Degenstrasse 3.
+Ab Banhof Luzern mit dem 1er Bus richtung Kriens-Obernau bis Hofmatt-Bellpark. Bellpark hindurch am Spielplatz vorbei, linkskurve einschlagen nach ca. 200m erste Abzweigung rechts bis Degenstrasse 3.
 
 <b>Per Post:</b>
-FUSILLI -- Gemeinschaftsatelier Teiggi
+FUSILLI – Gemeinschaftsatelier Teiggi
 Degenstrasse 3
 6010 Kriens
 
