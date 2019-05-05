@@ -33,4 +33,6 @@ Finissage am Mi, 12. Dezember ab 19:00
 FUSILLI - Ateliergemeinschaft Teiggi
 Degenstrasse 3, Kriens
 
+<b> Bilder von der Austellung </b>
 
+<img src="/img/post/zeichenstift1.JPG" weight="250" width="500" style="padding-right:15px"> 

@@ -23,3 +23,6 @@ Degenstrasse 3, Kriens
 <a href="http://www.gruene-luzern.ch">Grüne Luzern</a> <br>
 <a href="http://www.laborluzern.ch">Labor Luzern</a>
 
+
+
+<img src="/img/post/palaver.jpg" weight="250" width="500" style="padding-right:15px">

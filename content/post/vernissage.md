@@ -4,7 +4,7 @@ date: 2018-09-03
 linktitle: opening
 nomenu:
 title: FUSILLI Eröffnungsfeier 
-noweight: 10
+noweight: 1
 image: img/post/eroffnungplakat.jpg
 ---
 
@@ -33,10 +33,15 @@ FUSILLI – Ateliergemeinschaft Teiggi | LABOR Luzern<br>
 Degenstrasse 3<br>
 6010 Kriens<br>
 
-<img src="/img/post/eroffnungflyer.jpg" weight="250" width="500">
+<img src="/img/post/eroffnungflyer.jpg" weight="150" width="300" style="padding-right:80px">     <img src="/img/post/Fusilligif.gif" weight="150" width="300">
 
 
+<b>Bilder vom Event</b>
 
-<img src="/img/post/Fusilligif.gif" weight="200" width="500">
+
+<img src="/img/post/workshop.JPG" weight="200" width="400" style="padding-right:15px">   <img src="/img/post/skuptur.jpg" weight="200" width="400"> <br>
+<br>
+<img src="/img/post/kuche.jpg" weight="200" width="400" style="padding-right:15px">   <img src="/img/post/labor.jpg" weight="200" width="400"> <br>
+<br>
 
 
