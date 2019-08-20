@@ -53,11 +53,6 @@ instagramLink = "www.instagram.com/fusilli.teiggi"
   name = "Über uns"
   url = "/about/"
   weight = 95
-
-[[menu.main]]
-  name = "Events"
-  url = "/events/"
-  weight = 150
   
 [[menu.main]]
   name = "Partner"

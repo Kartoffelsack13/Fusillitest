@@ -74,6 +74,12 @@ Website in Arbeit, vorerst: www.instagram.com/la._.d._.da
 <br>
 <br>
 
+
+<img src="/img/artists/mc.jpg" alt="Moana Clematide" width="300" style="padding-right:20px;float:left";>
+Moana Clematide (*1990) wohnt und arbeitet in der Teiggi. Bereits während dem Kunststudium in Luzern beschäftigte sie sich skulptural und installativ mit diversen Materialien - vorwiegend mit Rohstoffen wie Holz, Zucker oder Schurwolle. Dabei wurde das Material selber, dessen jeweilige Ästhetik und die natürlichen Eigenschaften immer mehr zum eigentlichen Inhalt ihrer Arbeiten. Aktuell bewegt sie sich damit auch vermehrt im angewandten Bereich. So entstehen nachhaltige Produkte wie Wachstücher und textile Allzweckbeutel. 
+<br>
+<br>
+
 <img src="/img/artists/ll.jpg" alt="Labor Luzern" width="300" style="padding-right:20px;float:left";>Das LABOR Luzern ist eine Plattform für Bildung und eine Community im Bereich zeitgenössischer Medien.
 Das Ziel ist die Förderung eines Bewusstseins im Umgang mit Materialien und die Vermittlung von technischen und künstlerischen Methoden zum gestalterischen Ausdruck.
 Ihr Motto lautet: “DIT – Do It Together!” http://www.laborluzern.ch/
