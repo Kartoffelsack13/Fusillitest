@@ -3,7 +3,7 @@ author: ""
 date: 2019-08-19
 linktitle: unlauterewerbung
 nomenu:
-title: Unlautere Werbung Helene Eggenschwiler
+title: Unlautere Werbung Helen Eggenschwiler
 noweight: 1
 image: img/post/flyerhelene.jpg
 ---
