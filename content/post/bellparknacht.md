@@ -1,7 +1,7 @@
 
 ---
 author: ""
-date: 2019-08-20
+date: 2019-09-07
 linktitle: bellparknacht
 nomenu:
 title: Bellparknacht
@@ -40,3 +40,12 @@ Luzern & Fusilli. Die Mitwirkenden stellen ihre Räume vor.
 Afterparty mit Mitternachtssnacks und Monsbier-Bar.
 Meester DJ Krizz
 23 bis 01 Uhr
+
+
+<img src="/img/post/belli1.jpg" wheigt="400" width="800">
+
+<img src="/img/post/belli2.jpg" wheigt="400" width="800">
+
+<img src="/img/post/bellpark3.jpg" wheigt="400" width="800">
+
+<img src="/img/post/bellpark4.jpg" wheigt="400" width="800">

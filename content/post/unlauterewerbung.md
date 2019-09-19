@@ -24,4 +24,13 @@ Vernissage 5. September 2019, 18 - 20 Uhr, Neustadstrasse 33, 6003 Luzern.
 
 Während einer Woche werden in Luzern und Kriens auf je vier Plakatflächen Werke von Helen Eggenschwiler zu sehen sein. Es entsteht eine Ausstellung im öffentlichen Raum. Die Fusilli - Ateliergemeinschaft Teiggi präsentiert im Rahmen von Unlautere Werbung Kunst auf Werbeflächen und macht sie der Öffentlichkeit zugänglich.
 
-Die Künstlerin Helen Eggenschwiler arbeitet mit Fotografien von Luzern, welche sie im digitalen überlagert. So entstehen fantasievolle Bilder, welche mit Licht, Schatten, Formen und Farben spielen. 
+Die Künstlerin Helen Eggenschwiler arbeitet mit Fotografien von Luzern, welche sie im digitalen überlagert. So entstehen fantasievolle Bilder, welche mit Licht, Schatten, Formen und Farben spielen.
+
+
+<br>
+Fotos der Austellung:
+
+<img src="/img/post/unlautere1.jpg" weight="400" width="800">
+
+<img src="/img/post/unlautere2.jpg" weight="400" width="800">
+ 

@@ -2,14 +2,15 @@ url         = "http://atelierfusilli.ch/"
 theme           = "casper1"
 languageCode    = "en-US"
 disqusShortname = ""
-paginate        = 6
+paginate        = 10
+
 #SectionPagesMenu = "main"
 canonifyurls    = true  
 
 [params]
   title       = "FUSILLI"
   subtitle    = "FUSILLI – Ateliergemeinschaft Teiggi Kriens "
-copyright     = "© 2018"
+copyright     = "© 2019"
 
   cover       = ""
   description = "FUSILLI– Ateliergemeinschaft Teiggi Kriens "
