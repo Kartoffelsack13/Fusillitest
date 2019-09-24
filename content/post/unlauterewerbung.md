@@ -8,12 +8,6 @@ noweight: 1
 image: img/post/unlautere0.jpg
 ---
 
-
-
-<img src="/img/post/flyerhelene.jpg" weight="400" width="800">
-
-
-
 Wenn das Licht den Weg beleuchtet ... | ... und ich die Augen schliesse.
 04.09.2019 - 10.09.2019 Neustadtstrasse 33, 6003 Luzern
 05.09.2019 - 11.09.2019  Schachenstrasse 20, 6010 Kriens
