@@ -5,7 +5,7 @@ linktitle: retro
 nomenu:
 title: Retrogame Night
 noweight: 1
-image: img/post/retro1.png
+image: img/post/retro1.jpg
 ---
 
 Datum: 20. April 2019 (Ostersamstag)

@@ -5,7 +5,7 @@ linktitle: unlauterewerbung
 nomenu:
 title: Unlautere Werbung Helen Eggenschwiler
 noweight: 1
-image: img/post/flyerhelene.jpg
+image: img/post/unlautere0.jpg
 ---
 
 
@@ -34,3 +34,4 @@ Fotos der Austellung:
 
 <img src="/img/post/unlautere2.jpg" weight="400" width="800">
  
+<img src="/img/post/flyerhelene.jpg" weight="400" width="800>
