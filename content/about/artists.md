@@ -13,17 +13,6 @@ url = ""
 
 <span style="color:white"> Die Bewohner der Ateliergemeinschaft </span>
 
-
-<img src="/img/artists/jb.jpeg" alt="Judith Bucher" width="300" style="padding-right:20px;float:left";>
-Judith Bucher
-mail@judithbucher.ch
-In Sempach-Station geboren, zwischen Rain und Rothenburg aufgewachsen, immer das ganze Alpenpanorama im Blick. Lebeseit den frühen 80-er Jahren in Luzern, pendle zwischen Land (Tessin) und Stadt, ab September 2018 lebe ich in Kriens.
-Kunstgewerbeschule 1983-89 (Grafik 2, freie Kunst 3 Jahre)
-
-Ich mäandere gerne zwischen Orten, Welten, Zeiten, zwischen Medien und Techniken.
-Meine Hauptbeschäftigung gilt der Zeichnung, der ephemeren, wie der wissenschaftlichen. Zeichnen ist wie schreiben und dann interessiert mich auch das Surreale.
-
-
 <img src="/img/artists/cf.png" alt="Klarissa Flückiger" width="300" style="padding-right:20px;float:left";>Klarissa Flückiger versteht sich als Beobachterin ihrer Umwelt. In Performances,
 Installationen und Videoarbeiten philosophiert sie über diese Erfahrungen. Anhand
 einer symbolischen Bildsprache stellt sie Fragen in den Raum und zu diskutiert diese.
@@ -71,12 +60,6 @@ Daniela P. Meier (*1988) lebt und arbeitet im Raum Luzern und arbeitet als küns
 
 Sie ist Mitbegründerin der FUSILLI – Ateliergemeinschaft Teiggi und Mitglied vom LABOR Luzern.
 Website in Arbeit, vorerst: www.instagram.com/la._.d._.da 
-<br>
-<br>
-
-
-<img src="/img/artists/mc.jpg" alt="Moana Clematide" width="300" style="padding-right:20px;float:left";>
-Moana Clematide (*1990) wohnt und arbeitet in der Teiggi. Bereits während dem Kunststudium in Luzern beschäftigte sie sich skulptural und installativ mit diversen Materialien - vorwiegend mit Rohstoffen wie Holz, Zucker oder Schurwolle. Dabei wurde das Material selber, dessen jeweilige Ästhetik und die natürlichen Eigenschaften immer mehr zum eigentlichen Inhalt ihrer Arbeiten. Aktuell bewegt sie sich damit auch vermehrt im angewandten Bereich. So entstehen nachhaltige Produkte wie Wachstücher und textile Allzweckbeutel. 
 <br>
 <br>
 
